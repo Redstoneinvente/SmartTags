@@ -1,0 +1,8 @@
+{
+  "version": "0.0.1",
+  "changelog": [
+    "Initial"
+  ],
+  "minUnityVersion": "2021.3",
+  "downloadUrl": "https://assetstore.unity.com/packages/your-asset"
+}
