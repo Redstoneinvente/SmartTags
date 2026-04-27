@@ -1,8 +1,6 @@
 {
   "version": "0.0.2",
-  "changelog": [
-    "Initial"
-  ],
+  "changelog": "<b>SmartTags v0.0.2</b>\n\n<size=14><b>New Features</b></size>\n• Improved UI performance\n\n<size=14><b>Fixes</b></size>\n• Fixed autosave bug",
   "minUnityVersion": "2021.3",
   "downloadUrl": "https://assetstore.unity.com/packages/your-asset"
 }
